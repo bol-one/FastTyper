@@ -4,6 +4,7 @@
 Клавиши перед вводом:
 
 enter='enter'
+
 space='space'
 tab='tab'
 backspace='backspace'
