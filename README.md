@@ -6,11 +6,17 @@
 enter='enter'
 
 space='space'
+
 tab='tab'
+
 backspace='backspace'
+
 delete='delete'
+
 up='up'
+
 down='down'
+
 left='left'
 right='right'
 f1-f12='f1-f12'
